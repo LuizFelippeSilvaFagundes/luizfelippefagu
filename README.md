@@ -1,2 +1,2 @@
-# meucurriculo.github.io
+# http://meucurriculo.github.io
 meu curriculo
